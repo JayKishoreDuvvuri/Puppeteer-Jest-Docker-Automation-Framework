@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1617487581687' stop='1617487594050'>
+    <name>Add the product quantity as five to the cart and check the total price</name>
+    <title>Add the product quantity as five to the cart and check the total price</title>
+    <test-cases>
+        <test-case start='1617487588002' status='passed' stop='1617487588009'>
+            <name>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1617487588009' status='passed' stop='1617487589014'>
+            <name>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1617487589014' status='passed' stop='1617487593237'>
+            <name>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</name>
+            <title>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1617487593237' status='failed' stop='1617487594050'>
+            <name>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</name>
+            <title>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='49a4f7df-d055-441e-9c38-515ef994fffd-attachment.png' type='image/png' size='196988'/>
+            </attachments>
+            <failure>
+                <message>Error: expect(received).toEqual(expected) // deep equality
+                
+                Expected: "$144.90"
+                Received: "$16.40"</message>
+                <stack-trace>Error: expect(received).toEqual(expected) // deep equality
+                
+                Expected: "$144.90"
+                Received: "$16.40"
+                    at Object.&lt;anonymous> (/Users/Jay/Desktop/Puppeteer-Jest-PageObjects-Framework/tests/checkTotalPrice.test.js:37:24)
+                    at processTicksAndRejections (node:internal/process/task_queues:93:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

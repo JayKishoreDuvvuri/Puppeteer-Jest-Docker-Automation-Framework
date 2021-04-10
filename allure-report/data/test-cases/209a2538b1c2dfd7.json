@@ -1,0 +1,145 @@
+{
+  "uid" : "209a2538b1c2dfd7",
+  "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Check when selecting black colour the image is updated",
+  "historyId" : "86457af4b6fd77b16fcd9b857f8c795d",
+  "time" : {
+    "start" : 1613402262987,
+    "stop" : 1613402267955,
+    "duration" : 4968
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36",
+  "statusTrace" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36\n                    at ExecutionContext._evaluateInternal (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:171:23)\n                    at processTicksAndRejections (node:internal/process/task_queues:93:5)\n                    at ExecutionContext.evaluate (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:106:16)\n                    at ProductPage.blackColour (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/pages/ProductPage.js:16:18)\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/toggleProductColour.test.js:33:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36",
+    "statusTrace" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36\n                    at ExecutionContext._evaluateInternal (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:171:23)\n                    at processTicksAndRejections (node:internal/process/task_queues:93:5)\n                    at ExecutionContext.evaluate (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:106:16)\n                    at ProductPage.blackColour (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/pages/ProductPage.js:16:18)\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/toggleProductColour.test.js:33:24)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a95b01357b7815c8",
+      "name" : "screenshot",
+      "source" : "a95b01357b7815c8.png",
+      "type" : "image/png",
+      "size" : 691810
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Check when selecting black colour the image is updated"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c0c20843e1d4642",
+      "status" : "failed",
+      "statusDetails" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36",
+      "time" : {
+        "start" : 1604852233517,
+        "stop" : 1604852236180,
+        "duration" : 2663
+      }
+    }, {
+      "uid" : "d125c624a598738c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851068258,
+        "stop" : 1604851069672,
+        "duration" : 1414
+      }
+    }, {
+      "uid" : "93b69efc10019ed2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851000940,
+        "stop" : 1604851002500,
+        "duration" : 1560
+      }
+    }, {
+      "uid" : "5d63da123ce5a7ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850944061,
+        "stop" : 1604850945228,
+        "duration" : 1167
+      }
+    }, {
+      "uid" : "f2ba1fa650033a6f",
+      "status" : "failed",
+      "statusDetails" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36",
+      "time" : {
+        "start" : 1604839779875,
+        "stop" : 1604839781691,
+        "duration" : 1816
+      }
+    }, {
+      "uid" : "e7d3d09e704a7585",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837676072,
+        "stop" : 1604837677389,
+        "duration" : 1317
+      }
+    }, {
+      "uid" : "795229799b9a6c76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338353735,
+        "stop" : 1604338354617,
+        "duration" : 882
+      }
+    }, {
+      "uid" : "7e94303d0c431b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321020423,
+        "stop" : 1604321021304,
+        "duration" : 881
+      }
+    }, {
+      "uid" : "52a8f020566f71f6",
+      "status" : "failed",
+      "statusDetails" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36",
+      "time" : {
+        "start" : 1604320740714,
+        "stop" : 1604320743433,
+        "duration" : 2719
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "209a2538b1c2dfd7.json",
+  "parameterValues" : [ ]
+}

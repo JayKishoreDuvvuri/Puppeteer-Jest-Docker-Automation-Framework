@@ -1,0 +1,64 @@
+{
+  "uid" : "195a0b312a70aaad",
+  "name" : "Add to Cart Verify the product count from the Cart",
+  "fullName" : "Add to Cart.Add to Cart Verify the product count from the Cart",
+  "historyId" : "affacb13e23d4c4ccd7a03e64bab1ee3",
+  "time" : {
+    "start" : 1604837687083,
+    "stop" : 1604837707592,
+    "duration" : 20509
+  },
+  "description" : "tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : ": Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.",
+  "statusTrace" : "Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.Error: \n                    at new Spec (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Spec.js:116:22)\n                    at new Spec (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/setup_jest_globals.js:78:9)\n                    at specFactory (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:523:24)\n                    at Env.it (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:592:24)\n                    at Env.it (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:134:23)\n                    at it (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:100:21)\n                    at Suite.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:40:5)\n                    at addSpecsToSuite (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:444:51)\n                    at Env.describe (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:414:11)\n                    at describe (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:88:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : ": Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.",
+    "statusTrace" : "Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.Error: \n                    at new Spec (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Spec.js:116:22)\n                    at new Spec (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/setup_jest_globals.js:78:9)\n                    at specFactory (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:523:24)\n                    at Env.it (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:592:24)\n                    at Env.it (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:134:23)\n                    at it (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:100:21)\n                    at Suite.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:40:5)\n                    at addSpecsToSuite (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:444:51)\n                    at Env.describe (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/Env.js:414:11)\n                    at describe (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmine/jasmineLight.js:88:18)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3c0e136d43ea9e42",
+      "name" : "screenshot",
+      "source" : "3c0e136d43ea9e42.png",
+      "type" : "image/png",
+      "size" : 654632
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add to Cart Verify the product count from the Cart"
+  }, {
+    "name" : "package",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "195a0b312a70aaad.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid" : "e70e52083ef12ff",
+  "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+  "historyId" : "14d316ca693e1ebfb2a73c7aca3f03f8",
+  "time" : {
+    "start" : 1604851069672,
+    "stop" : 1604851069858,
+    "duration" : 186
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e70e52083ef12ff.json",
+  "parameterValues" : [ ]
+}

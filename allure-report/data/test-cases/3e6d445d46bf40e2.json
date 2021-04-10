@@ -1,0 +1,64 @@
+{
+  "uid" : "3e6d445d46bf40e2",
+  "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+  "fullName" : "Add the product quantity as five to the cart and check the total price.Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+  "historyId" : "63f28d5d18baf394ba6062125a7a405a",
+  "time" : {
+    "start" : 1604320755603,
+    "stop" : 1604320756037,
+    "duration" : 434
+  },
+  "description" : "tests/checkTotalPrice.spec.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/checkTotalPrice.spec.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"",
+  "statusTrace" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/checkTotalPrice.spec.js:37:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"",
+    "statusTrace" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/checkTotalPrice.spec.js:37:24)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "31814c080dfb172e",
+      "name" : "screenshot",
+      "source" : "31814c080dfb172e.png",
+      "type" : "image/png",
+      "size" : 433167
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testClass",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart"
+  }, {
+    "name" : "package",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e6d445d46bf40e2.json",
+  "parameterValues" : [ ]
+}

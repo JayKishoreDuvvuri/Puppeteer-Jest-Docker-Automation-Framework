@@ -1,0 +1,44 @@
+{
+  "uid" : "46825d50b1a2f93",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+  "fullName" : "Check Product Names Visible and Print it to Test Report.Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+  "historyId" : "70c3c51a447b6aaa20e2b587c860e5ad",
+  "time" : {
+    "start" : 1604334320680,
+    "stop" : 1604334320684,
+    "duration" : 4
+  },
+  "description" : "tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible"
+  }, {
+    "name" : "package",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46825d50b1a2f93.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid" : "947e576a5e1c4414",
+  "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Check the title and url on the Landing Page",
+  "historyId" : "72432c1032c754ae90d7f3f4a6e7915",
+  "time" : {
+    "start" : 1604851067330,
+    "stop" : 1604851067342,
+    "duration" : 12
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Check the title and url on the Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "947e576a5e1c4414.json",
+  "parameterValues" : [ ]
+}

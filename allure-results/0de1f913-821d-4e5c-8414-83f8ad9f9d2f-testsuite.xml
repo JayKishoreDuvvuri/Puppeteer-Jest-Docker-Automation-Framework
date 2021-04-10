@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1618079768951' stop='1618079781525'>
+    <name>Add the product quantity as five to the cart and check the total price</name>
+    <title>Add the product quantity as five to the cart and check the total price</title>
+    <test-cases>
+        <test-case start='1618079775020' status='passed' stop='1618079775025'>
+            <name>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-Docker&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1618079775025' status='passed' stop='1618079776758'>
+            <name>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-Docker&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1618079776758' status='passed' stop='1618079781075'>
+            <name>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</name>
+            <title>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-Docker&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1618079781075' status='failed' stop='1618079781525'>
+            <name>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</name>
+            <title>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='5d8a4b21-c27d-4919-b558-f9c923c63e49-attachment.png' type='image/png' size='196988'/>
+            </attachments>
+            <failure>
+                <message>Error: expect(received).toEqual(expected) // deep equality
+                
+                Expected: "$144.90"
+                Received: "$16.40"</message>
+                <stack-trace>Error: expect(received).toEqual(expected) // deep equality
+                
+                Expected: "$144.90"
+                Received: "$16.40"
+                    at Object.&lt;anonymous> (/Users/Jay/Desktop/Puppeteer-Jest-Docker/tests/checkTotalPrice.test.js:37:24)
+                    at processTicksAndRejections (node:internal/process/task_queues:93:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-Docker&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

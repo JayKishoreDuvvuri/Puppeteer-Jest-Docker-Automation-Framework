@@ -1,0 +1,183 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604330989808' stop='1604331003195'>
+    <name>Check Product Names Visible and Print it to Test Report</name>
+    <title>Check Product Names Visible and Print it to Test Report</title>
+    <test-cases>
+        <test-case start='1604330996362' status='failed' stop='1604330997649'>
+            <name>Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='561828b4-3982-4091-a05d-2ef2bc707ae0-attachment.png' type='image/png' size='2895624'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604330997649' status='failed' stop='1604330998919'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='922d03ec-4c06-4116-96a2-3d955905707b-attachment.png' type='image/png' size='3019312'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604330998919' status='failed' stop='1604331000039'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='9bfee68b-e687-44fc-b7b6-574a4025c711-attachment.png' type='image/png' size='2491607'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604331000039' status='failed' stop='1604331000714'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='32829d59-3f85-4304-966c-9a7a05332adc-attachment.png' type='image/png' size='1052890'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604331000714' status='failed' stop='1604331001335'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='3a077322-89a6-43d8-85f4-0c604051245a-attachment.png' type='image/png' size='1051100'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604331001335' status='failed' stop='1604331001967'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='7f69de4b-4da8-45c3-8ed9-ee476a326b4c-attachment.png' type='image/png' size='1044705'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604331001967' status='failed' stop='1604331002581'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='0e1e78f1-93c3-4943-89dd-5c5b89a1fc71-attachment.png' type='image/png' size='1044705'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604331002581' status='failed' stop='1604331003195'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='3d9354d6-5bcf-4941-b13e-587dfa914786-attachment.png' type='image/png' size='1044705'/>
+            </attachments>
+            <failure>
+                <message>ReferenceError: currentTest is not defined</message>
+                <stack-trace>ReferenceError: currentTest is not defined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:22)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,102 @@
+{
+  "uid" : "95b50a31d3ec1bbe",
+  "name" : "Add to Cart Check the title and url on the Landing Page",
+  "fullName" : "Add to Cart.Add to Cart Check the title and url on the Landing Page",
+  "historyId" : "1b317f1f430980e55a417e609d87b11b",
+  "time" : {
+    "start" : 1613402298388,
+    "stop" : 1613402298395,
+    "duration" : 7
+  },
+  "description" : "tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add to Cart Check the title and url on the Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fe8c6c937f42d1e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613402254691,
+        "stop" : 1613402254697,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "c4737ea5484b1f82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852218319,
+        "stop" : 1604852218327,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "20e3bfb6570b21d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839768188,
+        "stop" : 1604839768195,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "385b322f07be781",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837676049,
+        "stop" : 1604837676062,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "aa184181b7566221",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338350241,
+        "stop" : 1604338350248,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "b9352d2d84cc696",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321005985,
+        "stop" : 1604321005993,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "dc2c4f6b1d8eb113",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320733040,
+        "stop" : 1604320733049,
+        "duration" : 9
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95b50a31d3ec1bbe.json",
+  "parameterValues" : [ ]
+}

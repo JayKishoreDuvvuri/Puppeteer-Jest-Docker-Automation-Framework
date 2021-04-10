@@ -1,0 +1,129 @@
+{
+  "uid" : "b4b5d841101f646b",
+  "name" : "Add to Cart Verify the product count from the Cart",
+  "fullName" : "Add to Cart.Add to Cart Verify the product count from the Cart",
+  "historyId" : "affacb13e23d4c4ccd7a03e64bab1ee3",
+  "time" : {
+    "start" : 1613402311207,
+    "stop" : 1613402311663,
+    "duration" : 456
+  },
+  "description" : "tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "Error: Node is either not visible or not an HTMLElement",
+  "statusTrace" : "Error: Node is either not visible or not an HTMLElement\n                    at ElementHandle._clickablePoint (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:311:19)\n                    at processTicksAndRejections (node:internal/process/task_queues:93:5)\n                    at ElementHandle.click (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:372:26)\n                    at DOMWorld.click (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:274:9)\n                    at AddToCartPage.cartCount (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/pages/AddToCartPage.js:27:3)\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:41:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Node is either not visible or not an HTMLElement",
+    "statusTrace" : "Error: Node is either not visible or not an HTMLElement\n                    at ElementHandle._clickablePoint (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:311:19)\n                    at processTicksAndRejections (node:internal/process/task_queues:93:5)\n                    at ElementHandle.click (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:372:26)\n                    at DOMWorld.click (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:274:9)\n                    at AddToCartPage.cartCount (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/pages/AddToCartPage.js:27:3)\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:41:32)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "31d92946d0262493",
+      "name" : "screenshot",
+      "source" : "31d92946d0262493.png",
+      "type" : "image/png",
+      "size" : 432258
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add to Cart Verify the product count from the Cart"
+  }, {
+    "name" : "package",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c8de24e8189af5a0",
+      "status" : "failed",
+      "statusDetails" : ": Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.",
+      "time" : {
+        "start" : 1613402268437,
+        "stop" : 1613402288945,
+        "duration" : 20508
+      }
+    }, {
+      "uid" : "982a2ccec4b84dd2",
+      "status" : "failed",
+      "statusDetails" : "Error: Node is either not visible or not an HTMLElement",
+      "time" : {
+        "start" : 1604852232156,
+        "stop" : 1604852232623,
+        "duration" : 467
+      }
+    }, {
+      "uid" : "1fd138c491b42600",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839772299,
+        "stop" : 1604839772323,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "195a0b312a70aaad",
+      "status" : "failed",
+      "statusDetails" : ": Timeout - Async callback was not invoked within the 20000 ms timeout specified by jest.setTimeout.",
+      "time" : {
+        "start" : 1604837687083,
+        "stop" : 1604837707592,
+        "duration" : 20509
+      }
+    }, {
+      "uid" : "a5416c20675a45ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338352655,
+        "stop" : 1604338352690,
+        "duration" : 35
+      }
+    }, {
+      "uid" : "6567acec5fcc7ea3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321008773,
+        "stop" : 1604321008817,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "2c665a484ae0fbc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320736873,
+        "stop" : 1604320736901,
+        "duration" : 28
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b4b5d841101f646b.json",
+  "parameterValues" : [ ]
+}

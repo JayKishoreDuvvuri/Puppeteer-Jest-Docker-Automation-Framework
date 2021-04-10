@@ -1,0 +1,64 @@
+{
+  "uid" : "7e5864613db4785c",
+  "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Navigate to Landing Page",
+  "historyId" : "93b17b30a51e11b9f2b0f0bf44e6f327",
+  "time" : {
+    "start" : 1604851070339,
+    "stop" : 1604851073182,
+    "duration" : 2843
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "ReferenceError: title1 is not defined",
+  "statusTrace" : "ReferenceError: title1 is not defined\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/toggleProductColour.test.js:79:54)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "ReferenceError: title1 is not defined",
+    "statusTrace" : "ReferenceError: title1 is not defined\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/toggleProductColour.test.js:79:54)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2f31c93031a77bc1",
+      "name" : "screenshot",
+      "source" : "2f31c93031a77bc1.png",
+      "type" : "image/png",
+      "size" : 2589724
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Navigate to Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e5864613db4785c.json",
+  "parameterValues" : [ ]
+}

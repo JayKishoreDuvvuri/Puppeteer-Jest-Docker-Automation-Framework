@@ -1,0 +1,44 @@
+{
+  "uid" : "10d8f2d157716be2",
+  "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+  "fullName" : "Add the product quantity as five to the cart and check the total price.Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+  "historyId" : "1cc0f982aadc8ab93f9bad90c26fdf66",
+  "time" : {
+    "start" : 1604852218671,
+    "stop" : 1604852219498,
+    "duration" : 827
+  },
+  "description" : "tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testClass",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10d8f2d157716be2.json",
+  "parameterValues" : [ ]
+}

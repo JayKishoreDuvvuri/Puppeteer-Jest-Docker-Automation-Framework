@@ -1,0 +1,4607 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "c7082248b37aa1d2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334320684,
+      "stop" : 1604334320688,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "c8de24e8189af5a0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1613402268437,
+      "stop" : 1613402288945,
+      "duration" : 20508
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "b4b5d841101f646b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1613402311207,
+      "stop" : 1613402311663,
+      "duration" : 456
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "644bd6f8a531c3a3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767725,
+      "stop" : 1604839767728,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "5934a1fdb3f4a265",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326556096,
+      "stop" : 1604326557168,
+      "duration" : 1072
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+    "uid" : "a74caf66045a13c2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604320748901,
+      "stop" : 1604320755603,
+      "duration" : 6702
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "b08627a9df135627",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331561209,
+      "stop" : 1604331562277,
+      "duration" : 1068
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "759fd84a21bbeece",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604335040955,
+      "stop" : 1604335040958,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "b90b62e320b6f63a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326552675,
+      "stop" : 1604326553808,
+      "duration" : 1133
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "8fc360c7c9f372f3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326807966,
+      "stop" : 1604326808980,
+      "duration" : 1014
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "dc2c4f6b1d8eb113",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320733040,
+      "stop" : 1604320733049,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "305c55a58266139d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604330997649,
+      "stop" : 1604330998919,
+      "duration" : 1270
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "942d08445271bd6e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590813,
+      "stop" : 1604332590818,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "e4a670bfec411734",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334243834,
+      "stop" : 1604334243838,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "c2832f124f467e34",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675308,
+      "stop" : 1604837676071,
+      "duration" : 763
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "75bf2ce3e2d29778",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331000714,
+      "stop" : 1604331001335,
+      "duration" : 621
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "7ecd6d9804f57613",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604850945422,
+      "stop" : 1604850945728,
+      "duration" : 306
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "c89189ef8ca31fd9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335710313,
+      "stop" : 1604335711494,
+      "duration" : 1181
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "518c22fd1e0827fb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604837683947,
+      "stop" : 1604837687083,
+      "duration" : 3136
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "916a49858c3885b4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326095082,
+      "stop" : 1604326096283,
+      "duration" : 1201
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "9c03d64cf6cb8200",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767730,
+      "stop" : 1604839767732,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "af1f9492b7803c6a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326097480,
+      "stop" : 1604326098677,
+      "duration" : 1197
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+    "uid" : "3e6d445d46bf40e2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604320755603,
+      "stop" : 1604320756037,
+      "duration" : 434
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "19b6a1d6208fcac9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320733220,
+      "stop" : 1604320748901,
+      "duration" : 15681
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "8c9e56bc9b07a3a3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331002581,
+      "stop" : 1604331003195,
+      "duration" : 614
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "a5ef5c20ea92f59f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732545,
+      "stop" : 1604320732549,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+    "uid" : "210c771b0664ca17",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852219498,
+      "stop" : 1604852223794,
+      "duration" : 4296
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "d569314753e5f310",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837676062,
+      "stop" : 1604837683503,
+      "duration" : 7441
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "df0739b0125c3f66",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320743433,
+      "stop" : 1604320743646,
+      "duration" : 213
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "6d7f66aec8664a11",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335597267,
+      "stop" : 1604335598362,
+      "duration" : 1095
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "d7ad38703e256f9e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604852227671,
+      "stop" : 1604852232156,
+      "duration" : 4485
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "93b69efc10019ed2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851000940,
+      "stop" : 1604851002500,
+      "duration" : 1560
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "6a5d9670faeabe79",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335709121,
+      "stop" : 1604335710313,
+      "duration" : 1192
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "209a2538b1c2dfd7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1613402262987,
+      "stop" : 1613402267955,
+      "duration" : 4968
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "63aae8d7d9b39673",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333604430,
+      "stop" : 1604333605532,
+      "duration" : 1102
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "6b8b5eea4cb4390c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604334320688,
+      "stop" : 1604334321927,
+      "duration" : 1239
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "e93d219ae60c23e1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077463,
+      "stop" : 1608218077466,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "34b232199c429c08",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667433,
+      "stop" : 1604331667438,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "195a0b312a70aaad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604837687083,
+      "stop" : 1604837707592,
+      "duration" : 20509
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "b937871e41b2411f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732559,
+      "stop" : 1604320732562,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "74f3441f0c67319a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402302989,
+      "stop" : 1613402306742,
+      "duration" : 3753
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "ff4c8209c8099119",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005319,
+      "stop" : 1604321005322,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "7993d3d5eabcf846",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604332749500,
+      "stop" : 1604332750626,
+      "duration" : 1126
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "10d8f2d157716be2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218671,
+      "stop" : 1604852219498,
+      "duration" : 827
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "bcce4868585b38f9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336225593,
+      "stop" : 1604336228004,
+      "duration" : 2411
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "79c2a4d0d63c02b1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229211,
+      "stop" : 1604338229214,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "e04f68363b5df7d1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326098677,
+      "stop" : 1604326099882,
+      "duration" : 1205
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "bddf4606f3034424",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005303,
+      "stop" : 1604321005307,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "c755e7b82ab9fd04",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604335040962,
+      "stop" : 1604335040965,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "1eca48045391e755",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326560265,
+      "stop" : 1604326561299,
+      "duration" : 1034
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "209eee5a93d37647",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604330998919,
+      "stop" : 1604331000039,
+      "duration" : 1120
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+    "uid" : "adb7a31a00367cbc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839768292,
+      "stop" : 1604839768300,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "4e695ae070806ba3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335599496,
+      "stop" : 1604335600610,
+      "duration" : 1114
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "e5863c0c06790020",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839782625,
+      "stop" : 1604839783877,
+      "duration" : 1252
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "bfbe2c41e541e8da",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320744082,
+      "stop" : 1604320744147,
+      "duration" : 65
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "1a53469bf248ae7e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335598362,
+      "stop" : 1604335599496,
+      "duration" : 1134
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "59d0f38e7c5a5a91",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331797456,
+      "stop" : 1604331798560,
+      "duration" : 1104
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "b979104d2e29185b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326101990,
+      "stop" : 1604326103072,
+      "duration" : 1082
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "d1db8be46d7d4ec9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338204438,
+      "stop" : 1604338204440,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "950c82e30fb95afd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667450,
+      "stop" : 1604331667454,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "a00825c669afccae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851000038,
+      "stop" : 1604851000051,
+      "duration" : 13
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "c46923fc74be2c18",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326236967,
+      "stop" : 1604326238047,
+      "duration" : 1080
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "b63fe876d6dc1936",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767688,
+      "stop" : 1604839767697,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "1aa7037a0fe42e84",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331555643,
+      "stop" : 1604331556832,
+      "duration" : 1189
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "89ddc3d52f93b8e7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005323,
+      "stop" : 1604321005326,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "ad04fdb29e4fcf88",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331792816,
+      "stop" : 1604331793969,
+      "duration" : 1153
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "d15582cb472fa8e6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851003002,
+      "stop" : 1604851003170,
+      "duration" : 168
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "f2ba1fa650033a6f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604839779875,
+      "stop" : 1604839781691,
+      "duration" : 1816
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "f9a637f0ff34fa7a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667411,
+      "stop" : 1604331667427,
+      "duration" : 16
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "c0c20843e1d4642",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604852233517,
+      "stop" : 1604852236180,
+      "duration" : 2663
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "2141b64886b850e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604330996362,
+      "stop" : 1604330997649,
+      "duration" : 1287
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "58f38ccca62060b4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350889,
+      "stop" : 1604338350892,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "c651f90544b1de0b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604335040965,
+      "stop" : 1604335040968,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "341eb505ff14270d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326100944,
+      "stop" : 1604326101990,
+      "duration" : 1046
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "e8fd86f78f0e94c1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675925,
+      "stop" : 1604837675928,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "6b8592d79388ee1a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852236823,
+      "stop" : 1604852237014,
+      "duration" : 191
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "65b8c4d352311d4d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839782126,
+      "stop" : 1604839782339,
+      "duration" : 213
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+    "uid" : "e3e7430b55fc1ed6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321010902,
+      "stop" : 1604321016622,
+      "duration" : 5720
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "6f9a7b1ebcb579bf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251104,
+      "stop" : 1613402251108,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "502f8b01b0ed543a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218503,
+      "stop" : 1604852218507,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "157b5b494a2cfd7b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334320676,
+      "stop" : 1604334320680,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "f4d7448bfe26cff8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251076,
+      "stop" : 1613402251084,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "86061bf9882fccaf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334320672,
+      "stop" : 1604334320676,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+    "uid" : "e430f3c7ba13d871",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604338362346,
+      "stop" : 1604338363803,
+      "duration" : 1457
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "a585570e9a121777",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332749494,
+      "stop" : 1604332749497,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "8da10ed4e1582f4e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732562,
+      "stop" : 1604320732565,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "8d51e9cbb518cee5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402269113,
+      "stop" : 1613402269334,
+      "duration" : 221
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "5b3a123df60fd0e4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331790281,
+      "stop" : 1604331791485,
+      "duration" : 1204
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "6cf2384471b33ee9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767732,
+      "stop" : 1604839767734,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "b9f375ad83deb788",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604334243849,
+      "stop" : 1604334245089,
+      "duration" : 1240
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "937e19f41793ae7b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837677889,
+      "stop" : 1604837678058,
+      "duration" : 169
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "b87b2a81ac58969d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005310,
+      "stop" : 1604321005313,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "7e94303d0c431b2c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321020423,
+      "stop" : 1604321021304,
+      "duration" : 881
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "77316d805c5d3d9a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218523,
+      "stop" : 1604852218526,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "3aebf7e900f887f6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604850945906,
+      "stop" : 1604850947162,
+      "duration" : 1256
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "63a15dddbf7997ed",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767734,
+      "stop" : 1604839767737,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "9771aacf4a0befc0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335701875,
+      "stop" : 1604335703184,
+      "duration" : 1309
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "d1c0319777ae94dd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251089,
+      "stop" : 1613402251092,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "eabfebb4b1dfb700",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321007988,
+      "stop" : 1604321008773,
+      "duration" : 785
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "9c3a80991fbae11e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338355286,
+      "stop" : 1604338356940,
+      "duration" : 1654
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "e1bb241b9c343ee1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1613402269607,
+      "stop" : 1613402272111,
+      "duration" : 2504
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "d396d924733fb738",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331562277,
+      "stop" : 1604331563348,
+      "duration" : 1071
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "989f868d8f0ab1b6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837677389,
+      "stop" : 1604837677574,
+      "duration" : 185
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "5d63da123ce5a7ac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604850944061,
+      "stop" : 1604850945228,
+      "duration" : 1167
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "55682abc7ccaef06",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839768300,
+      "stop" : 1604839773248,
+      "duration" : 4948
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "fbb9592eb5e9994e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334320667,
+      "stop" : 1604334320672,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "ceea77651b55cf06",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839768195,
+      "stop" : 1604839769829,
+      "duration" : 1634
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+    "uid" : "c1b560a94021d246",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402250940,
+      "stop" : 1613402250946,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "54498f59dfcdf0b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326808980,
+      "stop" : 1604326810028,
+      "duration" : 1048
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "3fa74f2ade704408",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077454,
+      "stop" : 1608218077457,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "d255f728444486bf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321021304,
+      "stop" : 1604321021489,
+      "duration" : 185
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "393fa4d78a6c4f58",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852236180,
+      "stop" : 1604852236518,
+      "duration" : 338
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "4a31942dd86bc49b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852225727,
+      "stop" : 1604852227671,
+      "duration" : 1944
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "edc4a510d7f80805",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350886,
+      "stop" : 1604338350889,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "61f26b1db3f3acd0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839781691,
+      "stop" : 1604839782126,
+      "duration" : 435
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "36ca668cedd1a04b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326231356,
+      "stop" : 1604326232537,
+      "duration" : 1181
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "633d4097dcb62c29",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338351382,
+      "stop" : 1604338353735,
+      "duration" : 2353
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "8608cc4ad1c8bdf6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837678058,
+      "stop" : 1604837680143,
+      "duration" : 2085
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "65c16636ff9a20dd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1613402263580,
+      "stop" : 1613402268437,
+      "duration" : 4857
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "c0dd2d2d2ab694b8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251092,
+      "stop" : 1613402251096,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "9ea092f3544a457c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335706841,
+      "stop" : 1604335708005,
+      "duration" : 1164
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "549a3f0045c1f508",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326559222,
+      "stop" : 1604326560265,
+      "duration" : 1043
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+    "uid" : "3190cbfd30753223",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402260802,
+      "stop" : 1613402261298,
+      "duration" : 496
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "c1968f60085ade85",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229206,
+      "stop" : 1604338229210,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "315d2c02bde9c786",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767712,
+      "stop" : 1604839767719,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "280511fdb479c1f9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675928,
+      "stop" : 1604837675931,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "8089149f5f99e92b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334243838,
+      "stop" : 1604334243842,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "c616f013516dcc64",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005294,
+      "stop" : 1604321005302,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "1fd138c491b42600",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839772299,
+      "stop" : 1604839772323,
+      "duration" : 24
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "8269c370668d51be",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338204431,
+      "stop" : 1604338204434,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "32101835bbed4525",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604338204443,
+      "stop" : 1604338205718,
+      "duration" : 1275
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "c23c5ff917994a68",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335594951,
+      "stop" : 1604335596175,
+      "duration" : 1224
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "7c26ad03d36347bc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590796,
+      "stop" : 1604332590801,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "8f97d29c41aeeef9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229197,
+      "stop" : 1604338229206,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "466e2b16e63da9ff",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335592504,
+      "stop" : 1604335593787,
+      "duration" : 1283
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "dc4bbc174214bb6c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402250946,
+      "stop" : 1613402252209,
+      "duration" : 1263
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "1e60dda989c83633",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229227,
+      "stop" : 1604338229230,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "6c377c0f4797b6a9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604335040939,
+      "stop" : 1604335040947,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "97577dbdd8477ada",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218851,
+      "stop" : 1604852233517,
+      "duration" : 14666
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "fe8c6c937f42d1e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402254691,
+      "stop" : 1613402254697,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "f9f885710962aab6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251108,
+      "stop" : 1613402251111,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+    "uid" : "35bd6398da99e25f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852223794,
+      "stop" : 1604852224567,
+      "duration" : 773
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "721d9d4a06b01b5a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732556,
+      "stop" : 1604320732559,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "2a9e551a4f3d5a55",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331001335,
+      "stop" : 1604331001967,
+      "duration" : 632
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "f2e6b062a0bf199d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675908,
+      "stop" : 1604837675916,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "182e0696f1355512",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402253655,
+      "stop" : 1613402253662,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "19908ee9f509540f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402253662,
+      "stop" : 1613402262987,
+      "duration" : 9325
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "1771b7a26c52e666",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402269335,
+      "stop" : 1613402269607,
+      "duration" : 272
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "795229799b9a6c76",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338353735,
+      "stop" : 1604338354617,
+      "duration" : 882
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "dfffbc66d14f9496",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334243846,
+      "stop" : 1604334243849,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "a5416c20675a45ce",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338352655,
+      "stop" : 1604338352690,
+      "duration" : 35
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "750805fe3ed6e433",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218517,
+      "stop" : 1604852218520,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "1379b2f85d7c4e60",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604851003170,
+      "stop" : 1604851005797,
+      "duration" : 2627
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "74373a213dad1ba8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077466,
+      "stop" : 1608218077469,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "6ef57734b6aa090",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321006978,
+      "stop" : 1604321007988,
+      "duration" : 1010
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "3c7a30ffe7b46282",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767719,
+      "stop" : 1604839767722,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "65fa616b5a5bbadb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218520,
+      "stop" : 1604852218523,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+    "uid" : "813fdac5b1a1c06",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338358159,
+      "stop" : 1604338362346,
+      "duration" : 4187
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "64efc9d6e1acc138",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350873,
+      "stop" : 1604338350881,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "84ccc813d1a43fc1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326803492,
+      "stop" : 1604326804600,
+      "duration" : 1108
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "e70e52083ef12ff",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851069672,
+      "stop" : 1604851069858,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "91e44faa4f5880e1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675916,
+      "stop" : 1604837675921,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "e8c83ade90a5df66",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326806880,
+      "stop" : 1604326807966,
+      "duration" : 1086
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "feb7a80f01fe94cb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331556832,
+      "stop" : 1604331558029,
+      "duration" : 1197
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "e5d1a01b5cddad26",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326232537,
+      "stop" : 1604326233705,
+      "duration" : 1168
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "795d1f2e13d50446",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334243829,
+      "stop" : 1604334243834,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "100e7a5b3cd6eb51",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604850945228,
+      "stop" : 1604850945422,
+      "duration" : 194
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "919a9203c9a108c6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338204422,
+      "stop" : 1604338204426,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "e7d3d09e704a7585",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837676072,
+      "stop" : 1604837677389,
+      "duration" : 1317
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "2e2f571dd22110de",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331793969,
+      "stop" : 1604331795048,
+      "duration" : 1079
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "af9835b772e5e9dc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320734000,
+      "stop" : 1604320734789,
+      "duration" : 789
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "52ff22ee675a0781",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338351371,
+      "stop" : 1604338351382,
+      "duration" : 11
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "b27947021fb68c0d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218495,
+      "stop" : 1604852218503,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "7682d481eade4ed6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350881,
+      "stop" : 1604338350886,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "d42c322c35ca1ca8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604335040947,
+      "stop" : 1604335040951,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "99e336beaa08d1a8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332749484,
+      "stop" : 1604332749488,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "f2f86ba6c0b6a5cc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335596175,
+      "stop" : 1604335597267,
+      "duration" : 1092
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "62522c9659be6e4d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332749497,
+      "stop" : 1604332749500,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "7a537b0313057bd5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077450,
+      "stop" : 1608218077454,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "b6dc7d2a6cd8686d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675937,
+      "stop" : 1604837675941,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "501456df665679d1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218507,
+      "stop" : 1604852218511,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "5dcd116dbd49b3fb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851000051,
+      "stop" : 1604851000940,
+      "duration" : 889
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "200047524718044e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675298,
+      "stop" : 1604837675308,
+      "duration" : 10
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "905ae428ae488af7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338354803,
+      "stop" : 1604338355113,
+      "duration" : 310
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "cf9cbfeaea183fb4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334243842,
+      "stop" : 1604334243846,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "46825d50b1a2f93",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334320680,
+      "stop" : 1604334320684,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "84887eb54ee1bd29",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326230181,
+      "stop" : 1604326231356,
+      "duration" : 1175
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "982a2ccec4b84dd2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604852232156,
+      "stop" : 1604852232623,
+      "duration" : 467
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "8ad5c72a9781e10d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335705657,
+      "stop" : 1604335706841,
+      "duration" : 1184
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "cfb13b917bd7fc91",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667438,
+      "stop" : 1604331667442,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "cd515cfa64f6526",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077437,
+      "stop" : 1608218077445,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "b08450ea89240ffa",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667446,
+      "stop" : 1604331667450,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "a763faf8fed23abf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667427,
+      "stop" : 1604331667433,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "6928941a7a1807ea",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077445,
+      "stop" : 1608218077450,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "561b6ee4bbbe050d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321021490,
+      "stop" : 1604321021805,
+      "duration" : 315
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+    "uid" : "f333cd65bcf28858",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604321016622,
+      "stop" : 1604321017974,
+      "duration" : 1352
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "e8819f7fcb12a2f6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321021805,
+      "stop" : 1604321021957,
+      "duration" : 152
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "f91efbb643795a72",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675931,
+      "stop" : 1604837675934,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "800938c8437f0b35",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229214,
+      "stop" : 1604338229218,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "9d55d1ccdc3dd16f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604335040951,
+      "stop" : 1604335040955,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "4feca331ade3be16",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331001967,
+      "stop" : 1604331002581,
+      "duration" : 614
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "7f0d50ae9f69183e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335040968,
+      "stop" : 1604335042128,
+      "duration" : 1160
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "aa6a899d5dd1f577",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675934,
+      "stop" : 1604837675937,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "23178eeea4d3e953",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338351287,
+      "stop" : 1604338352017,
+      "duration" : 730
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+    "uid" : "6c62285237986236",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837680271,
+      "stop" : 1604837684029,
+      "duration" : 3758
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "5b5a49abd80d2d4c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326235928,
+      "stop" : 1604326236967,
+      "duration" : 1039
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "93c30c45a2340ec6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005993,
+      "stop" : 1604321006978,
+      "duration" : 985
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "c3462dea1e52cae5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590807,
+      "stop" : 1604332590810,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "96d0040f11ac516e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1613402306743,
+      "stop" : 1613402311207,
+      "duration" : 4464
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "2695ed3f57364b2c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851067342,
+      "stop" : 1604851068258,
+      "duration" : 916
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "56d7922db14f4932",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333605532,
+      "stop" : 1604333606607,
+      "duration" : 1075
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "12344352d7a127be",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338204414,
+      "stop" : 1604338204422,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "ae96296e39b078ba",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320734789,
+      "stop" : 1604320736873,
+      "duration" : 2084
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "f1b474195764f77c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336235323,
+      "stop" : 1604336237797,
+      "duration" : 2474
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "65f44793b78d97ac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321021957,
+      "stop" : 1604321023404,
+      "duration" : 1447
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "672cc8d5a74a991e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336220717,
+      "stop" : 1604336223164,
+      "duration" : 2447
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "6fd8ab498e61294",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331796271,
+      "stop" : 1604331797456,
+      "duration" : 1185
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "23a884cb2c0b0389",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732873,
+      "stop" : 1604320732883,
+      "duration" : 10
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "33591b48b80bd072",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839770679,
+      "stop" : 1604839772299,
+      "duration" : 1620
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "fd971cefe7ba5fd0",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767728,
+      "stop" : 1604839767730,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "69f0c253d7ccc49f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077460,
+      "stop" : 1608218077463,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "528f09a5d3f9cd5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851069858,
+      "stop" : 1604851070172,
+      "duration" : 314
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "c71e299084a3b9d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331554389,
+      "stop" : 1604331555643,
+      "duration" : 1254
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "a6c062660f0555b8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251101,
+      "stop" : 1613402251104,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "922faa37ff81edab",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332749480,
+      "stop" : 1604332749484,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "acd1c9914b7405b2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331795048,
+      "stop" : 1604331796271,
+      "duration" : 1223
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "e9f5e3c00d1a400",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333603232,
+      "stop" : 1604333604430,
+      "duration" : 1198
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "613b440f75232b10",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839782340,
+      "stop" : 1604839782625,
+      "duration" : 285
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "dc6617030ab3a9ae",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326801328,
+      "stop" : 1604326802421,
+      "duration" : 1093
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "7268cd17c34d54a2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732536,
+      "stop" : 1604320732545,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "2015cc359c661537",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331791485,
+      "stop" : 1604331792816,
+      "duration" : 1331
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+    "uid" : "dcca09062084e40e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005639,
+      "stop" : 1604321005648,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "372812f2c4e3b3cf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732553,
+      "stop" : 1604320732556,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "385b322f07be781",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837676049,
+      "stop" : 1604837676062,
+      "duration" : 13
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "edecd134b1479cbe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326238047,
+      "stop" : 1604326239109,
+      "duration" : 1062
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "52a8f020566f71f6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604320740714,
+      "stop" : 1604320743433,
+      "duration" : 2719
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "e13c40caf73b81f7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350715,
+      "stop" : 1604338358159,
+      "duration" : 7444
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "7515eedde4b0a06b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350899,
+      "stop" : 1604338350902,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "e9ee49769181271a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335593787,
+      "stop" : 1604335594951,
+      "duration" : 1164
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "7f115a563651b029",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839769829,
+      "stop" : 1604839770679,
+      "duration" : 850
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "9360bd9b6fd01dbb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326103072,
+      "stop" : 1604326104135,
+      "duration" : 1063
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "47408ae004035b41",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338204435,
+      "stop" : 1604338204437,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "530e9ae07e3fd802",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336237797,
+      "stop" : 1604336238166,
+      "duration" : 369
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "7638d61ca233005d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005829,
+      "stop" : 1604321020423,
+      "duration" : 14594
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "274a2844db8f6fa8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005819,
+      "stop" : 1604321005829,
+      "duration" : 10
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "3ed9260231ed9df5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667454,
+      "stop" : 1604331667458,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "d6d4be257539ef77",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336232926,
+      "stop" : 1604336235323,
+      "duration" : 2397
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "e257e45069378ba5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333606607,
+      "stop" : 1604333607720,
+      "duration" : 1113
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "947e576a5e1c4414",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851067330,
+      "stop" : 1604851067342,
+      "duration" : 12
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+    "uid" : "e78f32d185f1f61f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320733212,
+      "stop" : 1604320733220,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "761e6b6ffd12fd52",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675921,
+      "stop" : 1604837675925,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "2b7616f60a46679f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350892,
+      "stop" : 1604338350896,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "cb223fa7ece908e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005316,
+      "stop" : 1604321005319,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "1c8b387e1cebf7d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851070172,
+      "stop" : 1604851070339,
+      "duration" : 167
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "34e6bab3501f85a8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320744147,
+      "stop" : 1604320747125,
+      "duration" : 2978
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "b9352d2d84cc696",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005985,
+      "stop" : 1604321005993,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "63f947dad3bb4953",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402298396,
+      "stop" : 1613402302989,
+      "duration" : 4593
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "a551d19a12d2a2e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331788901,
+      "stop" : 1604331790281,
+      "duration" : 1380
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "685150b0dd637b8e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332749491,
+      "stop" : 1604332749494,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "9a2e5afbd8d7d3f8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005648,
+      "stop" : 1604321010901,
+      "duration" : 5253
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "cbe55f905ce30947",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331558029,
+      "stop" : 1604331559102,
+      "duration" : 1073
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "6659266aa5ae2966",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767722,
+      "stop" : 1604839767725,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "cf2b1f5510dad3a6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326804600,
+      "stop" : 1604326805730,
+      "duration" : 1130
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "7382a3f1ddcf50c1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332749488,
+      "stop" : 1604332749491,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "be20a97537c322e2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402263151,
+      "stop" : 1613402263580,
+      "duration" : 429
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "beefe4a140b67fac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326099882,
+      "stop" : 1604326100944,
+      "duration" : 1062
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "7e5864613db4785c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604851070339,
+      "stop" : 1604851073182,
+      "duration" : 2843
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "46793a2a3fc4e7c1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732549,
+      "stop" : 1604320732553,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "6d9c2d96f48a3c8e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251084,
+      "stop" : 1613402251088,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "14f65c613e0f5938",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350902,
+      "stop" : 1604338350904,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "10ac2f1fdfe24bf1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334320662,
+      "stop" : 1604334320667,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "d5d4d13571342501",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326096283,
+      "stop" : 1604326097480,
+      "duration" : 1197
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+    "uid" : "d125c624a598738c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851068258,
+      "stop" : 1604851069672,
+      "duration" : 1414
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+    "uid" : "78e10d85ca7221fe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837684029,
+      "stop" : 1604837684877,
+      "duration" : 848
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "c23ff03384aad8c1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837677574,
+      "stop" : 1604837677889,
+      "duration" : 315
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "78300b83f0967457",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334320647,
+      "stop" : 1604334320662,
+      "duration" : 15
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "7531c6003be6a0d8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336223164,
+      "stop" : 1604336225593,
+      "duration" : 2429
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "6567acec5fcc7ea3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321008773,
+      "stop" : 1604321008817,
+      "duration" : 44
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "c212094378315451",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229221,
+      "stop" : 1604338229224,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "4aff79e76a84b80e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604331667442,
+      "stop" : 1604331667446,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "ae050501d0f316d3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326233705,
+      "stop" : 1604326234895,
+      "duration" : 1190
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "5b86a0ceded893d7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338204440,
+      "stop" : 1604338204443,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "4a3bed83dc289092",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229218,
+      "stop" : 1604338229221,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "fe6978b90d486a74",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334243823,
+      "stop" : 1604334243829,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "19fcc9db385ba972",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320743646,
+      "stop" : 1604320744082,
+      "duration" : 436
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "460c321b4213e802",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335591271,
+      "stop" : 1604335592504,
+      "duration" : 1233
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "20e3bfb6570b21d9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839768188,
+      "stop" : 1604839768195,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "5ed4a7a2d21dd22b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852236518,
+      "stop" : 1604852236823,
+      "duration" : 305
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "b6ec32c37d3eb0c3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333599752,
+      "stop" : 1604333600895,
+      "duration" : 1143
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "cc15c481f5246bc4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604850942701,
+      "stop" : 1604850944061,
+      "duration" : 1360
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "b8d9ca7d573ded9a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335703184,
+      "stop" : 1604335704414,
+      "duration" : 1230
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "d8709e527252cc65",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338355113,
+      "stop" : 1604338355285,
+      "duration" : 172
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "3e84bc8e24e9da42",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218514,
+      "stop" : 1604852218517,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "e33085682fa83644",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350248,
+      "stop" : 1604338351287,
+      "duration" : 1039
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "c22624507bdde504",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402251096,
+      "stop" : 1613402251100,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "fc1ad07244f5f72",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604334243809,
+      "stop" : 1604334243823,
+      "duration" : 14
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "cccb2e4b82b17f49",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590801,
+      "stop" : 1604332590804,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "c4737ea5484b1f82",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218319,
+      "stop" : 1604852218327,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+    "uid" : "b81702802a935fbc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604852237014,
+      "stop" : 1604852239906,
+      "duration" : 2892
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "4fb7a6c3284fb3ca",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333607720,
+      "stop" : 1604333608776,
+      "duration" : 1056
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "92c712d149fcf30d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604850942692,
+      "stop" : 1604850942701,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "2a2914e99fb44f5f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326234895,
+      "stop" : 1604326235928,
+      "duration" : 1033
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "79891f4f5dc312",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331000039,
+      "stop" : 1604331000714,
+      "duration" : 675
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "5a7958e12f6b5892",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005307,
+      "stop" : 1604321005310,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+    "uid" : "41890b886129f921",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218840,
+      "stop" : 1604852218851,
+      "duration" : 11
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "63b4c9d945b0fd0e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590787,
+      "stop" : 1604332590796,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "dbc29f8bab5aa0ad",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402254697,
+      "stop" : 1613402263151,
+      "duration" : 8454
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "fc3e05e3155b86e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333600895,
+      "stop" : 1604333602061,
+      "duration" : 1166
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "95b50a31d3ec1bbe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402298388,
+      "stop" : 1613402298395,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "7fa18fdfb686bc97",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1608218077457,
+      "stop" : 1608218077460,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "8c15cebcb67072ce",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335708005,
+      "stop" : 1604335709121,
+      "duration" : 1116
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+    "uid" : "53237f1262602073",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338352017,
+      "stop" : 1604338352655,
+      "duration" : 638
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+    "uid" : "b4990c02fc49b3e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402252209,
+      "stop" : 1613402260802,
+      "duration" : 8593
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "7f42585dd226db14",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604333602061,
+      "stop" : 1604333603232,
+      "duration" : 1171
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "cb8707933d8ac534",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338354617,
+      "stop" : 1604338354803,
+      "duration" : 186
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+    "uid" : "db4bebf6106352ec",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332749471,
+      "stop" : 1604332749480,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "ef52b08efdb45ed6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590804,
+      "stop" : 1604332590807,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+    "uid" : "3c12ffdb5e266064",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338229224,
+      "stop" : 1604338229227,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "178a409f80bc9d80",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839767697,
+      "stop" : 1604839779874,
+      "duration" : 12177
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "32942669e9aefb1c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732566,
+      "stop" : 1604320732568,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "1bf0122f8e5a8d6f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604335040958,
+      "stop" : 1604335040962,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Verify the product count from the Cart",
+    "uid" : "2c665a484ae0fbc2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320736873,
+      "stop" : 1604320736901,
+      "duration" : 28
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "affa30c6cc058d2b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326554940,
+      "stop" : 1604326556096,
+      "duration" : 1156
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "34d274f0bf3d5122",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336230459,
+      "stop" : 1604336232926,
+      "duration" : 2467
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "a6b6ad4ade4e6c03",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851002500,
+      "stop" : 1604851002687,
+      "duration" : 187
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "ad641cf81c361d6d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326805730,
+      "stop" : 1604326806880,
+      "duration" : 1150
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "82d213001d84ee51",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218511,
+      "stop" : 1604852218514,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "5228dfd1195eca00",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326558184,
+      "stop" : 1604326559222,
+      "duration" : 1038
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "c358f3d7c4259e3b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331560143,
+      "stop" : 1604331561209,
+      "duration" : 1066
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+    "uid" : "8fab20c0d175053f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1613402267955,
+      "stop" : 1613402269113,
+      "duration" : 1158
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+    "uid" : "81dcbce72f467983",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350706,
+      "stop" : 1604338350715,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+    "uid" : "e3beec72cbea22f4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604839773249,
+      "stop" : 1604839777353,
+      "duration" : 4104
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "64d4c80ba6dd81",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350896,
+      "stop" : 1604338350899,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+    "uid" : "eafb619da7e499eb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604850945728,
+      "stop" : 1604850945906,
+      "duration" : 178
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+    "uid" : "be06d3407f8d9ce2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837683503,
+      "stop" : 1604837683947,
+      "duration" : 444
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "c5d461bd271a27a6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218327,
+      "stop" : 1604852225727,
+      "duration" : 7400
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart Check the title and url on the Landing Page",
+    "uid" : "aa184181b7566221",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338350241,
+      "stop" : 1604338350248,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "16a4bcc5b5ceba37",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326553808,
+      "stop" : 1604326554940,
+      "duration" : 1132
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+    "uid" : "7f63a59bfaa2d0df",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326802421,
+      "stop" : 1604326803492,
+      "duration" : 1071
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+    "uid" : "979d1fba16810c77",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590818,
+      "stop" : 1604332590821,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "d5b83dd3b798cde3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675490,
+      "stop" : 1604837680271,
+      "duration" : 4781
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add to Cart click on 20% discuont listed Item",
+    "uid" : "afc65b63a56f995a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320733049,
+      "stop" : 1604320734000,
+      "duration" : 951
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "63cc7e7c8ef70257",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604331559102,
+      "stop" : 1604331560143,
+      "duration" : 1041
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+    "uid" : "3988ab4cfc14c44e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604320732884,
+      "stop" : 1604320740714,
+      "duration" : 7830
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+    "uid" : "10d6d84418e7cfee",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604851002687,
+      "stop" : 1604851003002,
+      "duration" : 315
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+    "uid" : "65f42ea191acd33e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604336228004,
+      "stop" : 1604336230459,
+      "duration" : 2455
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "c8adfef693c27f2e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604338204426,
+      "stop" : 1604338204431,
+      "duration" : 5
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+    "uid" : "89d3c2daff1fa52f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604332590810,
+      "stop" : 1604332590813,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+    "uid" : "936b7cb56f6d566f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604839777353,
+      "stop" : 1604839778662,
+      "duration" : 1309
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+    "uid" : "c55c93803db6c13f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604837675482,
+      "stop" : 1604837675490,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+    "uid" : "c5ad009339531900",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604852218664,
+      "stop" : 1604852218671,
+      "duration" : 7
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+    "uid" : "8bfdb98e9b2e561c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604335704414,
+      "stop" : 1604335705657,
+      "duration" : 1243
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "ef62d8b9f2fb5332",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1604326557168,
+      "stop" : 1604326558184,
+      "duration" : 1016
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+    "uid" : "b3cefe39643473ac",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1604321005313,
+      "stop" : 1604321005316,
+      "duration" : 3
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

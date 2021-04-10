@@ -1,0 +1,129 @@
+{
+  "uid" : "96d0040f11ac516e",
+  "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+  "fullName" : "Add to Cart.Add to Cart Verify whether the product added to Cart message is displayed",
+  "historyId" : "8dd2d01d33f10e6de8325586b74a2a7b",
+  "time" : {
+    "start" : 1613402306743,
+    "stop" : 1613402311207,
+    "duration" : 4464
+  },
+  "description" : "tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+  "statusTrace" : "Error: expect(received).toBeTruthy()\n                \n                Received: false\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:37:27)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+    "statusTrace" : "Error: expect(received).toBeTruthy()\n                \n                Received: false\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:37:27)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9f7035b1cb727afa",
+      "name" : "screenshot",
+      "source" : "9f7035b1cb727afa.png",
+      "type" : "image/png",
+      "size" : 432258
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add to Cart Verify whether the product added to Cart message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "65c16636ff9a20dd",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1613402263580,
+        "stop" : 1613402268437,
+        "duration" : 4857
+      }
+    }, {
+      "uid" : "d7ad38703e256f9e",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1604852227671,
+        "stop" : 1604852232156,
+        "duration" : 4485
+      }
+    }, {
+      "uid" : "33591b48b80bd072",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839770679,
+        "stop" : 1604839772299,
+        "duration" : 1620
+      }
+    }, {
+      "uid" : "518c22fd1e0827fb",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+      "time" : {
+        "start" : 1604837683947,
+        "stop" : 1604837687083,
+        "duration" : 3136
+      }
+    }, {
+      "uid" : "53237f1262602073",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338352017,
+        "stop" : 1604338352655,
+        "duration" : 638
+      }
+    }, {
+      "uid" : "eabfebb4b1dfb700",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321007988,
+        "stop" : 1604321008773,
+        "duration" : 785
+      }
+    }, {
+      "uid" : "ae96296e39b078ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320734789,
+        "stop" : 1604320736873,
+        "duration" : 2084
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "96d0040f11ac516e.json",
+  "parameterValues" : [ ]
+}

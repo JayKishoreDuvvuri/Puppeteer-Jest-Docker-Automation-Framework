@@ -1,0 +1,52 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1617487581685' stop='1617487590397'>
+    <name>Add to Cart</name>
+    <title>Add to Cart</title>
+    <test-cases>
+        <test-case start='1617487588117' status='passed' stop='1617487588124'>
+            <name>Add to Cart Check the title and url on the Landing Page</name>
+            <title>Add to Cart Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1617487588124' status='passed' stop='1617487589037'>
+            <name>Add to Cart click on 20% discuont listed Item</name>
+            <title>Add to Cart click on 20% discuont listed Item</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1617487589037' status='passed' stop='1617487589581'>
+            <name>Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart</name>
+            <title>Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1617487589581' status='passed' stop='1617487590378'>
+            <name>Add to Cart Verify whether the product added to Cart message is displayed</name>
+            <title>Add to Cart Verify whether the product added to Cart message is displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1617487590378' status='passed' stop='1617487590397'>
+            <name>Add to Cart Verify the product count from the Cart</name>
+            <title>Add to Cart Verify the product count from the Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

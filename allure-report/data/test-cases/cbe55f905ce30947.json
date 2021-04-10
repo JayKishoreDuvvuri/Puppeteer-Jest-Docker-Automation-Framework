@@ -1,0 +1,64 @@
+{
+  "uid" : "cbe55f905ce30947",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+  "fullName" : "Check Product Names Visible and Print it to Test Report.Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+  "historyId" : "d3156fa7376875752cb007a31900d631",
+  "time" : {
+    "start" : 1604331558029,
+    "stop" : 1604331559102,
+    "duration" : 1073
+  },
+  "description" : "tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "TypeError: Cannot read property 'currentTest' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'currentTest' of undefined\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:53:27)\n                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)\n                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12\n                    at new Promise (<anonymous>)\n                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)\n                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "TypeError: Cannot read property 'currentTest' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'currentTest' of undefined\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:53:27)\n                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)\n                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12\n                    at new Promise (<anonymous>)\n                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)\n                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "227453ed3b713cba",
+      "name" : "screenshot",
+      "source" : "227453ed3b713cba.png",
+      "type" : "image/png",
+      "size" : 2306575
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible"
+  }, {
+    "name" : "package",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cbe55f905ce30947.json",
+  "parameterValues" : [ ]
+}

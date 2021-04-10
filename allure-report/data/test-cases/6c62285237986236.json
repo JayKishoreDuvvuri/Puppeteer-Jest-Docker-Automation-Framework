@@ -1,0 +1,44 @@
+{
+  "uid" : "6c62285237986236",
+  "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+  "fullName" : "Add the product quantity as five to the cart and check the total price.Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+  "historyId" : "47efb4e0ca9ca75f327aba4f49ed48fc",
+  "time" : {
+    "start" : 1604837680271,
+    "stop" : 1604837684029,
+    "duration" : 3758
+  },
+  "description" : "tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testClass",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product"
+  }, {
+    "name" : "package",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c62285237986236.json",
+  "parameterValues" : [ ]
+}

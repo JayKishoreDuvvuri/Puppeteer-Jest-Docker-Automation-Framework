@@ -1,0 +1,44 @@
+{
+  "uid" : "97577dbdd8477ada",
+  "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+  "historyId" : "34e97778cce8accc534e22746f81012d",
+  "time" : {
+    "start" : 1604852218851,
+    "stop" : 1604852233517,
+    "duration" : 14666
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97577dbdd8477ada.json",
+  "parameterValues" : [ ]
+}

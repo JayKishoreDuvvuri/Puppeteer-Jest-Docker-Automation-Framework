@@ -1,0 +1,79 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604332584387' stop='1604332590821'>
+    <name>Check Product Names Visible and Print it to Test Report</name>
+    <title>Check Product Names Visible and Print it to Test Report</title>
+    <test-cases>
+        <test-case start='1604332590787' status='passed' stop='1604332590796'>
+            <name>Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604332590796' status='passed' stop='1604332590801'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604332590801' status='passed' stop='1604332590804'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604332590804' status='passed' stop='1604332590807'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604332590807' status='passed' stop='1604332590810'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604332590810' status='passed' stop='1604332590813'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604332590813' status='passed' stop='1604332590818'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604332590818' status='passed' stop='1604332590821'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

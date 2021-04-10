@@ -1,0 +1,183 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604326546188' stop='1604326561299'>
+    <name>Check Product Names Visible and Print it to Test Report</name>
+    <title>Check Product Names Visible and Print it to Test Report</title>
+    <test-cases>
+        <test-case start='1604326552675' status='failed' stop='1604326553808'>
+            <name>Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='630880de-df12-4199-8ef9-f840199c80bf-attachment.png' type='image/png' size='2413880'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604326553808' status='failed' stop='1604326554940'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='168d6658-a454-430b-bf88-5e3a49f0dbc4-attachment.png' type='image/png' size='2881197'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604326554940' status='failed' stop='1604326556096'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='0185f181-9f92-49cb-8e97-b5a470e33ad5-attachment.png' type='image/png' size='2881197'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604326556096' status='failed' stop='1604326557168'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='42159388-5e5b-4de5-8ee5-cd30afab3473-attachment.png' type='image/png' size='2301578'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604326557168' status='failed' stop='1604326558184'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='f5567c44-ad5a-4b65-a2d1-780136bf2de9-attachment.png' type='image/png' size='2283993'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604326558184' status='failed' stop='1604326559222'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='d0aa9ba2-4e2c-43bf-ae35-46676626c8d1-attachment.png' type='image/png' size='2283993'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604326559222' status='failed' stop='1604326560265'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='93361cc8-2230-4f23-b52a-5102120621dc-attachment.png' type='image/png' size='2413880'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604326560265' status='failed' stop='1604326561299'>
+            <name>Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible</name>
+            <title>Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='d715dbd9-3319-4aa8-8155-ab1315408151-attachment.png' type='image/png' size='2413880'/>
+            </attachments>
+            <failure>
+                <message>TypeError: Cannot read property 'currentTest' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'currentTest' of undefined
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/productNames.test.js:52:27)
+                    at Object.asyncJestLifecycle (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/jasmineAsyncInstall.js:58:37)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:45:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:28:19)
+                    at /Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/jest-jasmine2/build/queueRunner.js:75:41
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/productNames.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/productNames.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

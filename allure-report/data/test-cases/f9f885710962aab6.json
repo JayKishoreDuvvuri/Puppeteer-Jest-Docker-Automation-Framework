@@ -1,0 +1,270 @@
+{
+  "uid" : "f9f885710962aab6",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+  "fullName" : "Check Product Names Visible and Print it to Test Report.Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+  "historyId" : "8dc79312798e379b472d0057e176d45e",
+  "time" : {
+    "start" : 1613402251108,
+    "stop" : 1613402251111,
+    "duration" : 3
+  },
+  "description" : "tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible"
+  }, {
+    "name" : "package",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "74373a213dad1ba8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608218077466,
+        "stop" : 1608218077469,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "77316d805c5d3d9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852218523,
+        "stop" : 1604852218526,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "63a15dddbf7997ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839767734,
+        "stop" : 1604839767737,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "b6dc7d2a6cd8686d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837675937,
+        "stop" : 1604837675941,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "14f65c613e0f5938",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338350902,
+        "stop" : 1604338350904,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1e60dda989c83633",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338229227,
+        "stop" : 1604338229230,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "32101835bbed4525",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604338204443,
+        "stop" : 1604338205718,
+        "duration" : 1275
+      }
+    }, {
+      "uid" : "530e9ae07e3fd802",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: productNames is not defined",
+      "time" : {
+        "start" : 1604336237797,
+        "stop" : 1604336238166,
+        "duration" : 369
+      }
+    }, {
+      "uid" : "c89189ef8ca31fd9",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604335710313,
+        "stop" : 1604335711494,
+        "duration" : 1181
+      }
+    }, {
+      "uid" : "4e695ae070806ba3",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604335599496,
+        "stop" : 1604335600610,
+        "duration" : 1114
+      }
+    }, {
+      "uid" : "7f0d50ae9f69183e",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604335040968,
+        "stop" : 1604335042128,
+        "duration" : 1160
+      }
+    }, {
+      "uid" : "6b8b5eea4cb4390c",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604334320688,
+        "stop" : 1604334321927,
+        "duration" : 1239
+      }
+    }, {
+      "uid" : "b9f375ad83deb788",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604334243849,
+        "stop" : 1604334245089,
+        "duration" : 1240
+      }
+    }, {
+      "uid" : "4fb7a6c3284fb3ca",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604333607720,
+        "stop" : 1604333608776,
+        "duration" : 1056
+      }
+    }, {
+      "uid" : "7993d3d5eabcf846",
+      "status" : "failed",
+      "statusDetails" : "TypeError: _LandingPage.default.printedChiffonDress1 is not a function",
+      "time" : {
+        "start" : 1604332749500,
+        "stop" : 1604332750626,
+        "duration" : 1126
+      }
+    }, {
+      "uid" : "979d1fba16810c77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604332590818,
+        "stop" : 1604332590821,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "59d0f38e7c5a5a91",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'title' of undefined",
+      "time" : {
+        "start" : 1604331797456,
+        "stop" : 1604331798560,
+        "duration" : 1104
+      }
+    }, {
+      "uid" : "3ed9260231ed9df5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604331667454,
+        "stop" : 1604331667458,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "d396d924733fb738",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604331562277,
+        "stop" : 1604331563348,
+        "duration" : 1071
+      }
+    }, {
+      "uid" : "8c9e56bc9b07a3a3",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: currentTest is not defined",
+      "time" : {
+        "start" : 1604331002581,
+        "stop" : 1604331003195,
+        "duration" : 614
+      }
+    }, {
+      "uid" : "54498f59dfcdf0b",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326808980,
+        "stop" : 1604326810028,
+        "duration" : 1048
+      }
+    }, {
+      "uid" : "1eca48045391e755",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326560265,
+        "stop" : 1604326561299,
+        "duration" : 1034
+      }
+    }, {
+      "uid" : "edecd134b1479cbe",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326238047,
+        "stop" : 1604326239109,
+        "duration" : 1062
+      }
+    }, {
+      "uid" : "9360bd9b6fd01dbb",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326103072,
+        "stop" : 1604326104135,
+        "duration" : 1063
+      }
+    }, {
+      "uid" : "89ddc3d52f93b8e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321005323,
+        "stop" : 1604321005326,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "32942669e9aefb1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320732566,
+        "stop" : 1604320732568,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9f885710962aab6.json",
+  "parameterValues" : [ ]
+}

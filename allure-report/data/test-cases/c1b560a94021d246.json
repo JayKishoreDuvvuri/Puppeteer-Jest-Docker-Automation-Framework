@@ -1,0 +1,94 @@
+{
+  "uid" : "c1b560a94021d246",
+  "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+  "fullName" : "Add the product quantity as five to the cart and check the total price.Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+  "historyId" : "f9bd226659ceae0bca19548e91cf3387",
+  "time" : {
+    "start" : 1613402250940,
+    "stop" : 1613402250946,
+    "duration" : 6
+  },
+  "description" : "tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testClass",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5ad009339531900",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852218664,
+        "stop" : 1604852218671,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "adb7a31a00367cbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839768292,
+        "stop" : 1604839768300,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "c55c93803db6c13f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837675482,
+        "stop" : 1604837675490,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "81dcbce72f467983",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338350706,
+        "stop" : 1604338350715,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "dcca09062084e40e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321005639,
+        "stop" : 1604321005648,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "e78f32d185f1f61f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320733212,
+        "stop" : 1604320733220,
+        "duration" : 8
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1b560a94021d246.json",
+  "parameterValues" : [ ]
+}

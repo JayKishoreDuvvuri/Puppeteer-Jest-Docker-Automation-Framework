@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604839759607' stop='1604839783878'>
+    <name>Toggle between the colours of the Product</name>
+    <title>Toggle between the colours of the Product</title>
+    <test-cases>
+        <test-case start='1604839767688' status='passed' stop='1604839767697'>
+            <name>Toggle between the colours of the Product Check the title and url on the Landing Page</name>
+            <title>Toggle between the colours of the Product Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/toggleProductColour.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/toggleProductColour.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604839767697' status='passed' stop='1604839779874'>
+            <name>Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page</name>
+            <title>Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/toggleProductColour.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/toggleProductColour.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604839779875' status='failed' stop='1604839781691'>
+            <name>Toggle between the colours of the Product Check when selecting black colour the image is updated</name>
+            <title>Toggle between the colours of the Product Check when selecting black colour the image is updated</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='ec0b4b66-9694-4990-8bb2-178d9de71d6e-attachment.png' type='image/png' size='596189'/>
+            </attachments>
+            <failure>
+                <message>Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null
+                    at __puppeteer_evaluation_script__:1:36</message>
+                <stack-trace>Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null
+                    at __puppeteer_evaluation_script__:1:36
+                    at ExecutionContext._evaluateInternal (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:171:23)
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                    at ExecutionContext.evaluate (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:106:16)
+                    at ProductPage.blackColour (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/pages/ProductPage.js:16:18)
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/toggleProductColour.test.js:33:24)</stack-trace>
+            </failure>
+            <description type='text'>tests/toggleProductColour.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/toggleProductColour.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604839781691' status='passed' stop='1604839782126'>
+            <name>Toggle between the colours of the Product Check when selecting orange colour the image is updated</name>
+            <title>Toggle between the colours of the Product Check when selecting orange colour the image is updated</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/toggleProductColour.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/toggleProductColour.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604839782126' status='passed' stop='1604839782339'>
+            <name>Toggle between the colours of the Product Check when selecting blue colour the image is updated</name>
+            <title>Toggle between the colours of the Product Check when selecting blue colour the image is updated</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/toggleProductColour.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/toggleProductColour.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604839782340' status='passed' stop='1604839782625'>
+            <name>Toggle between the colours of the Product Check when selecting yellow colour the image is updated</name>
+            <title>Toggle between the colours of the Product Check when selecting yellow colour the image is updated</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/toggleProductColour.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/toggleProductColour.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604839782625' status='passed' stop='1604839783877'>
+            <name>Toggle between the colours of the Product Navigate to Landing Page</name>
+            <title>Toggle between the colours of the Product Navigate to Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/toggleProductColour.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/toggleProductColour.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

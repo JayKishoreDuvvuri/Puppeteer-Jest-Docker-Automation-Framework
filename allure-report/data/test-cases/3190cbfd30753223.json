@@ -1,0 +1,98 @@
+{
+  "uid" : "3190cbfd30753223",
+  "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+  "fullName" : "Add the product quantity as five to the cart and check the total price.Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+  "historyId" : "63f28d5d18baf394ba6062125a7a405a",
+  "time" : {
+    "start" : 1613402260802,
+    "stop" : 1613402261298,
+    "duration" : 496
+  },
+  "description" : "tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testClass",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart"
+  }, {
+    "name" : "package",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "35bd6398da99e25f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852223794,
+        "stop" : 1604852224567,
+        "duration" : 773
+      }
+    }, {
+      "uid" : "936b7cb56f6d566f",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"",
+      "time" : {
+        "start" : 1604839777353,
+        "stop" : 1604839778662,
+        "duration" : 1309
+      }
+    }, {
+      "uid" : "78e10d85ca7221fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837684029,
+        "stop" : 1604837684877,
+        "duration" : 848
+      }
+    }, {
+      "uid" : "e430f3c7ba13d871",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"",
+      "time" : {
+        "start" : 1604338362346,
+        "stop" : 1604338363803,
+        "duration" : 1457
+      }
+    }, {
+      "uid" : "f333cd65bcf28858",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"",
+      "time" : {
+        "start" : 1604321016622,
+        "stop" : 1604321017974,
+        "duration" : 1352
+      }
+    }, {
+      "uid" : "3e6d445d46bf40e2",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"$144.90\"\n                Received: \"$161.30\"",
+      "time" : {
+        "start" : 1604320755603,
+        "stop" : 1604320756037,
+        "duration" : 434
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3190cbfd30753223.json",
+  "parameterValues" : [ ]
+}

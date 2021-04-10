@@ -1,0 +1,95 @@
+{
+  "uid" : "b4990c02fc49b3e",
+  "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+  "fullName" : "Add the product quantity as five to the cart and check the total price.Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+  "historyId" : "47efb4e0ca9ca75f327aba4f49ed48fc",
+  "time" : {
+    "start" : 1613402252209,
+    "stop" : 1613402260802,
+    "duration" : 8593
+  },
+  "description" : "tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/checkTotalPrice.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testClass",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product"
+  }, {
+    "name" : "package",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "210c771b0664ca17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852219498,
+        "stop" : 1604852223794,
+        "duration" : 4296
+      }
+    }, {
+      "uid" : "e3beec72cbea22f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839773249,
+        "stop" : 1604839777353,
+        "duration" : 4104
+      }
+    }, {
+      "uid" : "6c62285237986236",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837680271,
+        "stop" : 1604837684029,
+        "duration" : 3758
+      }
+    }, {
+      "uid" : "813fdac5b1a1c06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338358159,
+        "stop" : 1604338362346,
+        "duration" : 4187
+      }
+    }, {
+      "uid" : "e3e7430b55fc1ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321010902,
+        "stop" : 1604321016622,
+        "duration" : 5720
+      }
+    }, {
+      "uid" : "a74caf66045a13c2",
+      "status" : "failed",
+      "statusDetails" : "Error: Node is either not visible or not an HTMLElement",
+      "time" : {
+        "start" : 1604320748901,
+        "stop" : 1604320755603,
+        "duration" : 6702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4990c02fc49b3e.json",
+  "parameterValues" : [ ]
+}

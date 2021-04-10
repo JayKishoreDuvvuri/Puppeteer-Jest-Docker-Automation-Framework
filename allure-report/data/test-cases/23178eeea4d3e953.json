@@ -1,0 +1,44 @@
+{
+  "uid" : "23178eeea4d3e953",
+  "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+  "fullName" : "Add to Cart.Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+  "historyId" : "67d5c8751bb63c6660b19fbf0d6772c2",
+  "time" : {
+    "start" : 1604338351287,
+    "stop" : 1604338352017,
+    "duration" : 730
+  },
+  "description" : "tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart"
+  }, {
+    "name" : "package",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23178eeea4d3e953.json",
+  "parameterValues" : [ ]
+}

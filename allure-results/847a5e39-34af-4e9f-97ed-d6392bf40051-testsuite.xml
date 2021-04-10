@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1613402244101' stop='1613402261298'>
+    <name>Add the product quantity as five to the cart and check the total price</name>
+    <title>Add the product quantity as five to the cart and check the total price</title>
+    <test-cases>
+        <test-case start='1613402250940' status='passed' stop='1613402250946'>
+            <name>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1613402250946' status='passed' stop='1613402252209'>
+            <name>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1613402252209' status='passed' stop='1613402260802'>
+            <name>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</name>
+            <title>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1613402260802' status='passed' stop='1613402261298'>
+            <name>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</name>
+            <title>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

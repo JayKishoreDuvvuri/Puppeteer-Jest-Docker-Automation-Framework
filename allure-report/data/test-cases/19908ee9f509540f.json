@@ -1,0 +1,118 @@
+{
+  "uid" : "19908ee9f509540f",
+  "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+  "historyId" : "34e97778cce8accc534e22746f81012d",
+  "time" : {
+    "start" : 1613402253662,
+    "stop" : 1613402262987,
+    "duration" : 9325
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "97577dbdd8477ada",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852218851,
+        "stop" : 1604852233517,
+        "duration" : 14666
+      }
+    }, {
+      "uid" : "2695ed3f57364b2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851067342,
+        "stop" : 1604851068258,
+        "duration" : 916
+      }
+    }, {
+      "uid" : "5dcd116dbd49b3fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851000051,
+        "stop" : 1604851000940,
+        "duration" : 889
+      }
+    }, {
+      "uid" : "cc15c481f5246bc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850942701,
+        "stop" : 1604850944061,
+        "duration" : 1360
+      }
+    }, {
+      "uid" : "178a409f80bc9d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839767697,
+        "stop" : 1604839779874,
+        "duration" : 12177
+      }
+    }, {
+      "uid" : "c2832f124f467e34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837675308,
+        "stop" : 1604837676071,
+        "duration" : 763
+      }
+    }, {
+      "uid" : "633d4097dcb62c29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338351382,
+        "stop" : 1604338353735,
+        "duration" : 2353
+      }
+    }, {
+      "uid" : "7638d61ca233005d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321005829,
+        "stop" : 1604321020423,
+        "duration" : 14594
+      }
+    }, {
+      "uid" : "3988ab4cfc14c44e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320732884,
+        "stop" : 1604320740714,
+        "duration" : 7830
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19908ee9f509540f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,241 @@
+[ {
+  "uid" : "209a2538b1c2dfd7",
+  "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+  "time" : {
+    "start" : 1613402262987,
+    "stop" : 1613402267955,
+    "duration" : 4968
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1b560a94021d246",
+  "name" : "Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page",
+  "time" : {
+    "start" : 1613402250940,
+    "stop" : 1613402250946,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc4bbc174214bb6c",
+  "name" : "Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page",
+  "time" : {
+    "start" : 1613402250946,
+    "stop" : 1613402252209,
+    "duration" : 1263
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d9c2d96f48a3c8e",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Faded Short Sleeve T-shirts is visible",
+  "time" : {
+    "start" : 1613402251084,
+    "stop" : 1613402251088,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74f3441f0c67319a",
+  "name" : "Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart",
+  "time" : {
+    "start" : 1613402302989,
+    "stop" : 1613402306742,
+    "duration" : 3753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3190cbfd30753223",
+  "name" : "Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart",
+  "time" : {
+    "start" : 1613402260802,
+    "stop" : 1613402261298,
+    "duration" : 496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c22624507bdde504",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress Two is visible",
+  "time" : {
+    "start" : 1613402251096,
+    "stop" : 1613402251100,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1771b7a26c52e666",
+  "name" : "Toggle between the colours of the Product Check when selecting yellow colour the image is updated",
+  "time" : {
+    "start" : 1613402269335,
+    "stop" : 1613402269607,
+    "duration" : 272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6c062660f0555b8",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress is visible",
+  "time" : {
+    "start" : 1613402251101,
+    "stop" : 1613402251104,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9f885710962aab6",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Chiffon Dress is visible",
+  "time" : {
+    "start" : 1613402251108,
+    "stop" : 1613402251111,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "182e0696f1355512",
+  "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+  "time" : {
+    "start" : 1613402253655,
+    "stop" : 1613402253662,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4990c02fc49b3e",
+  "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+  "time" : {
+    "start" : 1613402252209,
+    "stop" : 1613402260802,
+    "duration" : 8593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fab20c0d175053f",
+  "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+  "time" : {
+    "start" : 1613402267955,
+    "stop" : 1613402269113,
+    "duration" : 1158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d51e9cbb518cee5",
+  "name" : "Toggle between the colours of the Product Check when selecting blue colour the image is updated",
+  "time" : {
+    "start" : 1613402269113,
+    "stop" : 1613402269334,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1c0319777ae94dd",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Blouse is visible",
+  "time" : {
+    "start" : 1613402251089,
+    "stop" : 1613402251092,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4b5d841101f646b",
+  "name" : "Add to Cart Verify the product count from the Cart",
+  "time" : {
+    "start" : 1613402311207,
+    "stop" : 1613402311663,
+    "duration" : 456
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "95b50a31d3ec1bbe",
+  "name" : "Add to Cart Check the title and url on the Landing Page",
+  "time" : {
+    "start" : 1613402298388,
+    "stop" : 1613402298395,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96d0040f11ac516e",
+  "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+  "time" : {
+    "start" : 1613402306743,
+    "stop" : 1613402311207,
+    "duration" : 4464
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f9a7b1ebcb579bf",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Summer Dress Two is visible",
+  "time" : {
+    "start" : 1613402251104,
+    "stop" : 1613402251108,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0dd2d2d2ab694b8",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+  "time" : {
+    "start" : 1613402251092,
+    "stop" : 1613402251096,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19908ee9f509540f",
+  "name" : "Toggle between the colours of the Product Click on the 5th Product with 5% discount on the Landing Page",
+  "time" : {
+    "start" : 1613402253662,
+    "stop" : 1613402262987,
+    "duration" : 9325
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63f947dad3bb4953",
+  "name" : "Add to Cart click on 20% discuont listed Item",
+  "time" : {
+    "start" : 1613402298396,
+    "stop" : 1613402302989,
+    "duration" : 4593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4d7448bfe26cff8",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the title and url on the Landing Page",
+  "time" : {
+    "start" : 1613402251076,
+    "stop" : 1613402251084,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1bb241b9c343ee1",
+  "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+  "time" : {
+    "start" : 1613402269607,
+    "stop" : 1613402272111,
+    "duration" : 2504
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,75 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604852209252' stop='1604852232623'>
+    <name>Add to Cart</name>
+    <title>Add to Cart</title>
+    <test-cases>
+        <test-case start='1604852218319' status='passed' stop='1604852218327'>
+            <name>Add to Cart Check the title and url on the Landing Page</name>
+            <title>Add to Cart Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604852218327' status='passed' stop='1604852225727'>
+            <name>Add to Cart click on 20% discuont listed Item</name>
+            <title>Add to Cart click on 20% discuont listed Item</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604852225727' status='passed' stop='1604852227671'>
+            <name>Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart</name>
+            <title>Add to Cart Check whether the Shopping Cart is enabled and click item to add to Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604852227671' status='failed' stop='1604852232156'>
+            <name>Add to Cart Verify whether the product added to Cart message is displayed</name>
+            <title>Add to Cart Verify whether the product added to Cart message is displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='2948abd7-3e75-4454-a557-a5419f7bb3fc-attachment.png' type='image/png' size='487260'/>
+            </attachments>
+            <failure>
+                <message>Error: expect(received).toBeTruthy()
+                
+                Received: false</message>
+                <stack-trace>Error: expect(received).toBeTruthy()
+                
+                Received: false
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:37:27)</stack-trace>
+            </failure>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604852232156' status='failed' stop='1604852232623'>
+            <name>Add to Cart Verify the product count from the Cart</name>
+            <title>Add to Cart Verify the product count from the Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='53e2a3fa-100a-4d16-82d0-bc1b385dc35a-attachment.png' type='image/png' size='487260'/>
+            </attachments>
+            <failure>
+                <message>Error: Node is either not visible or not an HTMLElement</message>
+                <stack-trace>Error: Node is either not visible or not an HTMLElement
+                    at ElementHandle._clickablePoint (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:311:19)
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                    at ElementHandle.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:372:26)
+                    at DOMWorld.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:274:9)
+                    at AddToCartPage.cartCount (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/pages/AddToCartPage.js:27:3)
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:41:32)</stack-trace>
+            </failure>
+            <description type='text'>tests/addToCart.test.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/addToCart.test.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

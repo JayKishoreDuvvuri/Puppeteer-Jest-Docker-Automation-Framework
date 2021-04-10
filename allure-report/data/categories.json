@@ -1,0 +1,77 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error: Evaluation failed: TypeError: Cannot read property 'getAttribute' of null\n                    at __puppeteer_evaluation_script__:1:36",
+      "children" : [ {
+        "name" : "Toggle between the colours of the Product Check when selecting black colour the image is updated",
+        "uid" : "209a2538b1c2dfd7",
+        "parentUid" : "3b845db390dc3b763d066c87c71660d7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613402262987,
+          "stop" : 1613402267955,
+          "duration" : 4968
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b845db390dc3b763d066c87c71660d7"
+    }, {
+      "name" : "ReferenceError: title1 is not defined",
+      "children" : [ {
+        "name" : "Toggle between the colours of the Product Navigate to Landing Page",
+        "uid" : "e1bb241b9c343ee1",
+        "parentUid" : "15d80d0d8c4a46c765ca2d3f20ba6d02",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613402269607,
+          "stop" : 1613402272111,
+          "duration" : 2504
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "15d80d0d8c4a46c765ca2d3f20ba6d02"
+    }, {
+      "name" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+      "children" : [ {
+        "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+        "uid" : "96d0040f11ac516e",
+        "parentUid" : "ffcd8928d6543ed53c85f4784defae24",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613402306743,
+          "stop" : 1613402311207,
+          "duration" : 4464
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ffcd8928d6543ed53c85f4784defae24"
+    }, {
+      "name" : "Error: Node is either not visible or not an HTMLElement",
+      "children" : [ {
+        "name" : "Add to Cart Verify the product count from the Cart",
+        "uid" : "b4b5d841101f646b",
+        "parentUid" : "3c249d34a4c83543ebbb6cd494739f16",
+        "status" : "failed",
+        "time" : {
+          "start" : 1613402311207,
+          "stop" : 1613402311663,
+          "duration" : 456
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3c249d34a4c83543ebbb6cd494739f16"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

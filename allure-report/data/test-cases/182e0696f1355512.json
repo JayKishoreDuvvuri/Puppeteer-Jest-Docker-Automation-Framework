@@ -1,0 +1,118 @@
+{
+  "uid" : "182e0696f1355512",
+  "name" : "Toggle between the colours of the Product Check the title and url on the Landing Page",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Check the title and url on the Landing Page",
+  "historyId" : "72432c1032c754ae90d7f3f4a6e7915",
+  "time" : {
+    "start" : 1613402253655,
+    "stop" : 1613402253662,
+    "duration" : 7
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Check the title and url on the Landing Page"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "41890b886129f921",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852218840,
+        "stop" : 1604852218851,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "947e576a5e1c4414",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851067330,
+        "stop" : 1604851067342,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "a00825c669afccae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851000038,
+        "stop" : 1604851000051,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "92c712d149fcf30d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850942692,
+        "stop" : 1604850942701,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "b63fe876d6dc1936",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839767688,
+        "stop" : 1604839767697,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "200047524718044e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837675298,
+        "stop" : 1604837675308,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "52ff22ee675a0781",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338351371,
+        "stop" : 1604338351382,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "274a2844db8f6fa8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321005819,
+        "stop" : 1604321005829,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "23a884cb2c0b0389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320732873,
+        "stop" : 1604320732883,
+        "duration" : 10
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "182e0696f1355512.json",
+  "parameterValues" : [ ]
+}

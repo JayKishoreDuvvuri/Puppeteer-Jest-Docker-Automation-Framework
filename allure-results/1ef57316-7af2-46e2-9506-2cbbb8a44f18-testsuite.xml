@@ -1,0 +1,69 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1604320725347' stop='1604320756037'>
+    <name>Add the product quantity as five to the cart and check the total price</name>
+    <title>Add the product quantity as five to the cart and check the total price</title>
+    <test-cases>
+        <test-case start='1604320733212' status='passed' stop='1604320733220'>
+            <name>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Check the title and url on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.spec.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604320733220' status='passed' stop='1604320748901'>
+            <name>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</name>
+            <title>Add the product quantity as five to the cart and check the total price Click on the 5th Product with 5% discount on the Landing Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>tests/checkTotalPrice.spec.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604320748901' status='failed' stop='1604320755603'>
+            <name>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</name>
+            <title>Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='9899dccb-b3e5-4893-945d-0b733f659ada-attachment.png' type='image/png' size='433167'/>
+            </attachments>
+            <failure>
+                <message>Error: Node is either not visible or not an HTMLElement</message>
+                <stack-trace>Error: Node is either not visible or not an HTMLElement
+                    at ElementHandle._clickablePoint (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:311:19)
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+                    at ElementHandle.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:372:26)
+                    at DOMWorld.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:274:9)
+                    at ProductPage.addQuantity (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/pages/ProductPage.js:74:10)
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/checkTotalPrice.spec.js:32:9)</stack-trace>
+            </failure>
+            <description type='text'>tests/checkTotalPrice.spec.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+        <test-case start='1604320755603' status='failed' stop='1604320756037'>
+            <name>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</name>
+            <title>Add the product quantity as five to the cart and check the total price Check whether the Total price is accurate from the Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='screenshot' source='db6f2a34-8695-472b-b265-2195bbfa976d-attachment.png' type='image/png' size='433167'/>
+            </attachments>
+            <failure>
+                <message>Error: expect(received).toEqual(expected) // deep equality
+                
+                Expected: "$144.90"
+                Received: "$161.30"</message>
+                <stack-trace>Error: expect(received).toEqual(expected) // deep equality
+                
+                Expected: "$144.90"
+                Received: "$161.30"
+                    at Object.&lt;anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/checkTotalPrice.spec.js:37:24)
+                    at processTicksAndRejections (internal/process/task_queues.js:97:5)</stack-trace>
+            </failure>
+            <description type='text'>tests/checkTotalPrice.spec.js&lt;br>&lt;br>&lt;a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&amp;path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm&lt;/a></description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

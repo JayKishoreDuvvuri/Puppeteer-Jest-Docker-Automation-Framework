@@ -1,0 +1,118 @@
+{
+  "uid" : "8fab20c0d175053f",
+  "name" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+  "fullName" : "Toggle between the colours of the Product.Toggle between the colours of the Product Check when selecting orange colour the image is updated",
+  "historyId" : "14d316ca693e1ebfb2a73c7aca3f03f8",
+  "time" : {
+    "start" : 1613402267955,
+    "stop" : 1613402269113,
+    "duration" : 1158
+  },
+  "description" : "tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/toggleProductColour.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/toggleProductColour.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testClass",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "testMethod",
+    "value" : "Toggle between the colours of the Product Check when selecting orange colour the image is updated"
+  }, {
+    "name" : "package",
+    "value" : "Toggle between the colours of the Product"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "393fa4d78a6c4f58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852236180,
+        "stop" : 1604852236518,
+        "duration" : 338
+      }
+    }, {
+      "uid" : "e70e52083ef12ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851069672,
+        "stop" : 1604851069858,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "a6b6ad4ade4e6c03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604851002500,
+        "stop" : 1604851002687,
+        "duration" : 187
+      }
+    }, {
+      "uid" : "100e7a5b3cd6eb51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604850945228,
+        "stop" : 1604850945422,
+        "duration" : 194
+      }
+    }, {
+      "uid" : "61f26b1db3f3acd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839781691,
+        "stop" : 1604839782126,
+        "duration" : 435
+      }
+    }, {
+      "uid" : "989f868d8f0ab1b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837677389,
+        "stop" : 1604837677574,
+        "duration" : 185
+      }
+    }, {
+      "uid" : "cb8707933d8ac534",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338354617,
+        "stop" : 1604338354803,
+        "duration" : 186
+      }
+    }, {
+      "uid" : "d255f728444486bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321021304,
+        "stop" : 1604321021489,
+        "duration" : 185
+      }
+    }, {
+      "uid" : "df0739b0125c3f66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320743433,
+        "stop" : 1604320743646,
+        "duration" : 213
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fab20c0d175053f.json",
+  "parameterValues" : [ ]
+}

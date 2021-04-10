@@ -1,0 +1,64 @@
+{
+  "uid" : "65c16636ff9a20dd",
+  "name" : "Add to Cart Verify whether the product added to Cart message is displayed",
+  "fullName" : "Add to Cart.Add to Cart Verify whether the product added to Cart message is displayed",
+  "historyId" : "8dd2d01d33f10e6de8325586b74a2a7b",
+  "time" : {
+    "start" : 1613402263580,
+    "stop" : 1613402268437,
+    "duration" : 4857
+  },
+  "description" : "tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/addToCart.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/addToCart.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+  "statusTrace" : "Error: expect(received).toBeTruthy()\n                \n                Received: false\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:37:27)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: expect(received).toBeTruthy()\n                \n                Received: false",
+    "statusTrace" : "Error: expect(received).toBeTruthy()\n                \n                Received: false\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer/Puppeteer-Jest-PageObjects-Framework/tests/addToCart.test.js:37:27)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "551bb7254e34257f",
+      "name" : "screenshot",
+      "source" : "551bb7254e34257f.png",
+      "type" : "image/png",
+      "size" : 701037
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testClass",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add to Cart Verify whether the product added to Cart message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Add to Cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65c16636ff9a20dd.json",
+  "parameterValues" : [ ]
+}

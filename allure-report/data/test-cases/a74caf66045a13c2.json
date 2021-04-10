@@ -1,0 +1,64 @@
+{
+  "uid" : "a74caf66045a13c2",
+  "name" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+  "fullName" : "Add the product quantity as five to the cart and check the total price.Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product",
+  "historyId" : "47efb4e0ca9ca75f327aba4f49ed48fc",
+  "time" : {
+    "start" : 1604320748901,
+    "stop" : 1604320755603,
+    "duration" : 6702
+  },
+  "description" : "tests/checkTotalPrice.spec.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/checkTotalPrice.spec.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/checkTotalPrice.spec.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "failed",
+  "statusMessage" : "Error: Node is either not visible or not an HTMLElement",
+  "statusTrace" : "Error: Node is either not visible or not an HTMLElement\n                    at ElementHandle._clickablePoint (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:311:19)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at ElementHandle.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:372:26)\n                    at DOMWorld.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:274:9)\n                    at ProductPage.addQuantity (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/pages/ProductPage.js:74:10)\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/checkTotalPrice.spec.js:32:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Node is either not visible or not an HTMLElement",
+    "statusTrace" : "Error: Node is either not visible or not an HTMLElement\n                    at ElementHandle._clickablePoint (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:311:19)\n                    at processTicksAndRejections (internal/process/task_queues.js:97:5)\n                    at ElementHandle.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/JSHandle.js:372:26)\n                    at DOMWorld.click (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:274:9)\n                    at ProductPage.addQuantity (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/pages/ProductPage.js:74:10)\n                    at Object.<anonymous> (/Users/Jay/Workspace/Puppeteer-Jest-PageObjects-Framework/tests/checkTotalPrice.spec.js:32:9)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b8685f5dc29749a0",
+      "name" : "screenshot",
+      "source" : "b8685f5dc29749a0.png",
+      "type" : "image/png",
+      "size" : 433167
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testClass",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "testMethod",
+    "value" : "Add the product quantity as five to the cart and check the total price Add quantity as 5 for the product"
+  }, {
+    "name" : "package",
+    "value" : "Add the product quantity as five to the cart and check the total price"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a74caf66045a13c2.json",
+  "parameterValues" : [ ]
+}

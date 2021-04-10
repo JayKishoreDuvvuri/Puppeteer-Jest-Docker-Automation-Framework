@@ -1,0 +1,265 @@
+{
+  "uid" : "c0dd2d2d2ab694b8",
+  "name" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+  "fullName" : "Check Product Names Visible and Print it to Test Report.Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible",
+  "historyId" : "d3156fa7376875752cb007a31900d631",
+  "time" : {
+    "start" : 1613402251092,
+    "stop" : 1613402251096,
+    "duration" : 4
+  },
+  "description" : "tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a>",
+  "descriptionHtml" : "<p>tests/productNames.test.js<br><br><a class='link' href='jetbrains://web-storm/navigate/reference?project=Puppeteer-Jest-PageObjects-Framework&path=tests/productNames.test.js'>Открыть в WebStorm</a></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testClass",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "testMethod",
+    "value" : "Check Product Names Visible and Print it to Test Report Check the product name: Printed Dress is visible"
+  }, {
+    "name" : "package",
+    "value" : "Check Product Names Visible and Print it to Test Report"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3fa74f2ade704408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1608218077454,
+        "stop" : 1608218077457,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "82d213001d84ee51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604852218511,
+        "stop" : 1604852218514,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "644bd6f8a531c3a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604839767725,
+        "stop" : 1604839767728,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "e8fd86f78f0e94c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604837675925,
+        "stop" : 1604837675928,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "58f38ccca62060b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338350889,
+        "stop" : 1604338350892,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "800938c8437f0b35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338229214,
+        "stop" : 1604338229218,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "8269c370668d51be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604338204431,
+        "stop" : 1604338204434,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "65f42ea191acd33e",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: productNames is not defined",
+      "time" : {
+        "start" : 1604336228004,
+        "stop" : 1604336230459,
+        "duration" : 2455
+      }
+    }, {
+      "uid" : "8ad5c72a9781e10d",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'failedExpectations' of undefined",
+      "time" : {
+        "start" : 1604335705657,
+        "stop" : 1604335706841,
+        "duration" : 1184
+      }
+    }, {
+      "uid" : "c23c5ff917994a68",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'failedExpectations' of undefined",
+      "time" : {
+        "start" : 1604335594951,
+        "stop" : 1604335596175,
+        "duration" : 1224
+      }
+    }, {
+      "uid" : "759fd84a21bbeece",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604335040955,
+        "stop" : 1604335040958,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "86061bf9882fccaf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604334320672,
+        "stop" : 1604334320676,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e4a670bfec411734",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604334243834,
+        "stop" : 1604334243838,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e9f5e3c00d1a400",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'title' of undefined",
+      "time" : {
+        "start" : 1604333603232,
+        "stop" : 1604333604430,
+        "duration" : 1198
+      }
+    }, {
+      "uid" : "7382a3f1ddcf50c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604332749488,
+        "stop" : 1604332749491,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "ef52b08efdb45ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604332590804,
+        "stop" : 1604332590807,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "ad04fdb29e4fcf88",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'title' of undefined",
+      "time" : {
+        "start" : 1604331792816,
+        "stop" : 1604331793969,
+        "duration" : 1153
+      }
+    }, {
+      "uid" : "cfb13b917bd7fc91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604331667438,
+        "stop" : 1604331667442,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "cbe55f905ce30947",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604331558029,
+        "stop" : 1604331559102,
+        "duration" : 1073
+      }
+    }, {
+      "uid" : "79891f4f5dc312",
+      "status" : "failed",
+      "statusDetails" : "ReferenceError: currentTest is not defined",
+      "time" : {
+        "start" : 1604331000039,
+        "stop" : 1604331000714,
+        "duration" : 675
+      }
+    }, {
+      "uid" : "cf2b1f5510dad3a6",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326804600,
+        "stop" : 1604326805730,
+        "duration" : 1130
+      }
+    }, {
+      "uid" : "5934a1fdb3f4a265",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326556096,
+        "stop" : 1604326557168,
+        "duration" : 1072
+      }
+    }, {
+      "uid" : "ae050501d0f316d3",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326233705,
+        "stop" : 1604326234895,
+        "duration" : 1190
+      }
+    }, {
+      "uid" : "e04f68363b5df7d1",
+      "status" : "failed",
+      "statusDetails" : "TypeError: Cannot read property 'currentTest' of undefined",
+      "time" : {
+        "start" : 1604326098677,
+        "stop" : 1604326099882,
+        "duration" : 1205
+      }
+    }, {
+      "uid" : "b87b2a81ac58969d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604321005310,
+        "stop" : 1604321005313,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "372812f2c4e3b3cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604320732553,
+        "stop" : 1604320732556,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0dd2d2d2ab694b8.json",
+  "parameterValues" : [ ]
+}
