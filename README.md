@@ -1,4 +1,4 @@
-# Puppeteer with Jest - Page Object Model - Automation
+# Puppeteer with Jest & Docker - Page Object Model - Automation
 
 Design Page Objects and run Tests
 
