@@ -7,7 +7,7 @@ Design Page Objects and run Tests
 Clone the repository
 
 ```bash
-git clone https://github.com/JayKishoreDuvvuri/Puppeteer-Jest-Page-Object-Automation-Framework
+git clone https://github.com/JayKishoreDuvvuri/Puppeteer-Jest-Docker-Automation-Framework
 ```
 
 Install dependencies
@@ -63,13 +63,13 @@ Run on Terminal :
         ├── allure open
 ```
 
-# Docker Locally
+### Docker Locally
 ```bash
 docker build -t puppeteer:v1 .
 docker run -it puppeteer:v1      
 ```
 
-# From Docker Hub
+### From Docker Hub
 ```bash
 docker pull jaykishoreduvvuri/puppeteer:v1   
 docker run -it jaykishoreduvvuri/puppeteer:v1      
